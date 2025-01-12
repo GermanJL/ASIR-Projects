@@ -10,4 +10,6 @@ Este repositorio contiene una colección de proyectos desarrollados como parte d
 ## Instrucciones
 
 Para clonar este repositorio y empezar a trabajar en los proyectos, usa el siguiente comando:
+git clone https://github.com/GermanJL/ASIR-Projects.git
+
 
