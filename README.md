@@ -4,8 +4,8 @@ Este repositorio contiene una colección de proyectos desarrollados como parte d
 
 ## Proyectos
 
-1. [Proyecto de Redes](./Networking-Project)
-2. [Proyecto de Seguridad](./Security-Project)
+1. [Proyecto de Redes](.\ASIR-Projects\ProyectoDeSeguridad)
+2. [Proyecto de Seguridad](.\ASIR-Projects\ProyectoDeRedes)
 
 ## Instrucciones
 
